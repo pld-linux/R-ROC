@@ -2,12 +2,12 @@
 
 Summary:	Utilities for ROC, with uarray focus
 Name:		R-%{packname}
-Version:	1.34.0
+Version:	1.38.0
 Release:	1
 License:	Artistic 2.0
 Group:		Applications/Engineering
 Source0:	http://www.bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	f316540fd92c5700b726630235b8359e
+# Source0-md5:	35bcbd9af068098247f16b7db12afc0c
 URL:		http://www.bioconductor.org/packages/release/bioc/html/ROC.html
 BuildRequires:	R-Biobase
 BuildRequires:	R
